@@ -3,7 +3,7 @@
 .box-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     grid-auto-flow: column;
     scroll-behavior: auto;
