@@ -77,6 +77,6 @@ body {
 @media screen and (min-width: 800px) {
 
     .box-container {
-        width: 1920px;
-        height: 1080px;
+        width: 100px;
+        height: 100px;
     }
