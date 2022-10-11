@@ -7,9 +7,8 @@
     scroll-behavior: auto;
     gap: 1.2rem;
     overflow-y: auto;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x mandatory;
     scrollbar-width: none;
+    padding-left: 20px;
 }
 
 body {
@@ -30,6 +29,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+   
 }
 
 
